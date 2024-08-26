@@ -33,7 +33,7 @@ export default function AllMeals() {
 
   const renderListEmptyComponent = () => (
     <View style={styles.isEmptContainer}>
-      <LottieView source={require('../../assets/animations/lt3HJrJVAL.json')} autoPlay loop={false} style={styles.animation} speed={2} />
+      <LottieView source={require('../../assets/animations/lt3HJrJVAL.json')} autoPlay loop style={styles.animation} speed={2} />
       <Text style={styles.notFoundText}>Not Found</Text>
     </View>
   )
