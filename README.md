@@ -1,6 +1,8 @@
 # Project Overview
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+https://github.com/user-attachments/assets/ed1e7b40-c830-4c3e-958c-e38f24fb4e55
+
 ### Projede Kullanılan Teknolojiler:
 
 - **React Native**
@@ -12,8 +14,6 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 - **Iconsax**
 - **Git**
 - **GitHub**
-
-https://github.com/user-attachments/assets/ed1e7b40-c830-4c3e-958c-e38f24fb4e55
 
 # Getting Started
 
