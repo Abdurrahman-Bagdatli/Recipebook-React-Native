@@ -3,7 +3,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 https://github.com/user-attachments/assets/ed1e7b40-c830-4c3e-958c-e38f24fb4e55
 
-### Projede Kullanılan Teknolojiler:
+### Technologies Used in the Project:
 
 - **React Native**
 - **HTTP GET/POST Requests**
